@@ -1,0 +1,8 @@
+{
+  "name": "กาดงานลานนา — งานเชียงใหม่ ลำพูน",
+  "description": "ศูนย์รวมดึงตำแหน่งงานว่าง Full-time, Part-time และฟรีแลนซ์รายวันในจังหวัดเชียงใหม่และลำพูน ตามวิถีไม่เลือกงานไม่ยากจน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
